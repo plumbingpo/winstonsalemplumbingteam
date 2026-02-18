@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winstonsalemplumbingteam.com/sitemap.xml
